@@ -1,0 +1,3 @@
+Place all non-moving assets in this folder with hump back text naming.
+
+ie. allMovingAssets (Where the first word is lower case and subsequent words are upper case)
